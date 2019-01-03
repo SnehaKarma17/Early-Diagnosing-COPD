@@ -1,5 +1,6 @@
 # Early-Diagnosing-COPD
-# Data set from Kaggle's data repository
+# Data set 
+from Kaggle's data repository
 # Goal
 To diagnose COPD in early ages to stop its exacerbation in an individual
 # Classification Models
